@@ -1,6 +1,6 @@
 # Workshop 5 - License-plate-Detection
-## Name: Ashwath M
-## Register number: 212223230023
+## Name: VENKATA MOHAN N
+## Register number: 212224230298
 
 ## Aim
 To implement a license plate detection system using OpenCV and a Haar Cascade Classifier (haarcascade_russian_plate_number.xml) to automatically locate vehicle license plates in images.
@@ -84,9 +84,10 @@ display(result)
 ```
 
 ## Output:
-<img width="972" height="565" alt="image" src="https://github.com/user-attachments/assets/c41af4bb-2d28-40ef-969b-4a5ecb0ed918" />
-<img width="971" height="552" alt="image" src="https://github.com/user-attachments/assets/23a4d8ef-cefb-4c7b-b403-fb8aa664a2c7" />
-<img width="976" height="551" alt="image" src="https://github.com/user-attachments/assets/717b7410-9d6f-44f9-98bf-6daf4eab023e" />
+<img width="990" height="638" alt="image" src="https://github.com/user-attachments/assets/1187c218-444c-46ef-950a-99114ffe471a" />
+<img width="1028" height="651" alt="image" src="https://github.com/user-attachments/assets/18b6973e-ce81-40cf-b0cb-4184f65d265f" />
+
+<img width="1013" height="638" alt="image" src="https://github.com/user-attachments/assets/11d9affa-b1c3-4f9e-a7b3-b64b4198dcd9" />
 
 
 ## Result
